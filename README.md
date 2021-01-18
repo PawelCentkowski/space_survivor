@@ -1,2 +1,2 @@
-# space_survivor
-# all rights reserved to Hakersi
+# Space Survivor
+All rights reserved to Hakersi
