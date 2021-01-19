@@ -1,1 +1,2 @@
-# space-shooter
+# Space Survivor
+All rights reserved to Hakersi
